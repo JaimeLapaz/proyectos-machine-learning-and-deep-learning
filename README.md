@@ -8,6 +8,7 @@
 - [Proyectos Machine Learning](#proyectos-machine-learning)
   - [Supervised Learning](#supervised-learning) 
     - [Proyecto 1: Clasificación de enfermedades cardiovasculares](#proyecto-1-clasificación-de-enfermedades-cardiovasculares)
+    - [Proyecto 2: Predicción del nivel de estrés](#proyecto-2-predicción-del-nivel-de-estrés)
   - [Unsupervised Learning](#unsupervised-learning)
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
@@ -30,6 +31,14 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 **Tecnologías:** Python, scikit-learn, pandas, matplotlib, seaborn
 
 **Ver proyecto:** [Clasificación de enfermedades cardiovasculares](./Proyectos_Machine_Learning/Supervised_Learning/Clasificacion_Enfermedades_Cardiovasculares)
+
+#### Proyecto 2: Predicción del nivel de estrés
+
+**Descripción:** Este proyecto emplea un conjunto de datos sobre información de trabajadores, el cual incluye la variable que indica el nivel de estrés de esa persona. Utilizaremos diversos algoritmos de regresión de aprendizaje supervisado para intentar predecir el nivel de estrés de una persona.
+
+**Tecnologías:** Python, scikit-learn, pandas, matplotlib, seaborn
+
+**Ver proyecto:** [Predicción nivel de estrés](./Proyectos_Machine_Learning/Supervised_Learning/Prediccion_Nivel_Estres)
 
 ## Requisitos
 
