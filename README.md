@@ -40,6 +40,16 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Ver proyecto:** [Predicción nivel de estrés](./Proyectos_Machine_Learning/Supervised_Learning/Prediccion_Nivel_Estres)
 
+### Unsupervised Learning
+
+#### Proyecto 1: Clústeres de enfermedades cardiovasculares
+
+**Descripción:** Este proyecto tiene como objetivo analizar y visualizar los clústeres de pacientes con enfermedades cardiovasculares utilizando técnicas de machine learning no supervisado. Se sospecha que las etiquetas de los datos de entrenamiento no son correctas, por lo que se investigará si existen otras formas de agrupar a los pacientes.
+
+**Tecnologías:** Python, Pandas, Seaborn, Matplotlib, Scikit-learn, Jupyter Notebook.
+
+**Ver proyecto:**[Clústeres de enfermedades cardiovasculares](./Proyectos_Machine_Learning/Unsupervised_Learning/Clusteres_enfermedades_cardiovasculares)
+
 ## Requisitos
 
 - Python 3.8+
@@ -47,7 +57,3 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar algún proyecto o deseas agregar nuevos proyectos, no dudes en hacer un fork del repositorio y enviar un pull request.
-
-## Licencia
-
-Este repositorio está licenciado bajo la Licencia MIT. Para más información, consulta el archivo [LICENSE](./LICENSE).
