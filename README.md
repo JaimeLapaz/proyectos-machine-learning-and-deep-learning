@@ -50,6 +50,14 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Ver proyecto:**[Clústeres de enfermedades cardiovasculares](./Proyectos_Machine_Learning/Unsupervised_Learning/Clusteres_enfermedades_cardiovasculares)
 
+### Proyecto 2: Influencias en el nivel de estres
+
+**Descripción:** Este proyecto tiene como objetivo identificar los factores más importantes que influyen en el nivel de estrés de los empleados utilizando técnicas de aprendizaje no supervisado y análisis de datos.
+
+**Tecnologías:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
+
+**Ver proyecto:**[Influencias en el nivel de estres](./Proyectos_Machine_Learning/Unsupervised_Learning/Influencias_nivel_estres)
+
 ## Requisitos
 
 - Python 3.8+
