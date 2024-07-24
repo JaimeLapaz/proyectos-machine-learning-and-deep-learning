@@ -48,7 +48,7 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Tecnologías:** Python, Pandas, Seaborn, Matplotlib, Scikit-learn, Jupyter Notebook.
 
-**Ver proyecto:**[Clústeres de enfermedades cardiovasculares](./Proyectos_Machine_Learning/Unsupervised_Learning/Clusteres_enfermedades_cardiovasculares)
+**Ver proyecto:** [Clústeres de enfermedades cardiovasculares](./Proyectos_Machine_Learning/Unsupervised_Learning/Clusteres_enfermedades_cardiovasculares)
 
 ### Proyecto 2: Influencias en el nivel de estres
 
@@ -56,7 +56,7 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Tecnologías:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
 
-**Ver proyecto:**[Influencias en el nivel de estres](./Proyectos_Machine_Learning/Unsupervised_Learning/Influencias_nivel_estres)
+**Ver proyecto:** [Influencias en el nivel de estres](./Proyectos_Machine_Learning/Unsupervised_Learning/Influencias_nivel_estres)
 
 ## Requisitos
 
