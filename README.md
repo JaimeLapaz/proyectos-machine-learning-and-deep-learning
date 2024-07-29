@@ -10,6 +10,10 @@
     - [Proyecto 1: Clasificación de enfermedades cardiovasculares](#proyecto-1-clasificación-de-enfermedades-cardiovasculares)
     - [Proyecto 2: Predicción del nivel de estrés](#proyecto-2-predicción-del-nivel-de-estrés)
   - [Unsupervised Learning](#unsupervised-learning)
+    - [Proyecto 1: Clústeres de enfermedades cardiovasculares](#proyecto-1-clústeres-de-enfermedades-cardiovasculares)
+    - [Proyecto 2: Influencias en el nivel de estrés](#proyecto-2-influencias-en-el-nivel-de-estrés)
+- [Proyectos Deep Learning](#proyectos-deep-learning)
+  - [Feed Forward Network](#)
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Uso](#uso)
@@ -50,13 +54,33 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Ver proyecto:** [Clústeres de enfermedades cardiovasculares](./Proyectos_Machine_Learning/Unsupervised_Learning/Clusteres_enfermedades_cardiovasculares)
 
-### Proyecto 2: Influencias en el nivel de estres
+### Proyecto 2: Influencias en el nivel de estrés
 
 **Descripción:** Este proyecto tiene como objetivo identificar los factores más importantes que influyen en el nivel de estrés de los empleados utilizando técnicas de aprendizaje no supervisado y análisis de datos.
 
 **Tecnologías:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
 
 **Ver proyecto:** [Influencias en el nivel de estres](./Proyectos_Machine_Learning/Unsupervised_Learning/Influencias_nivel_estres)
+
+## Proyectos Deep Learning
+
+### Feed Forward Network
+
+#### Proyecto 1: Clasificación de enfermedades cardiovasculares
+
+**Descripción:** Este proyecto tiene como objetivo diseñar una red neuronal feed-forward para predecir enfermedades cardiovasculares basado en características de salud.
+
+**Tecnologías:** Python, Pandas, NumPy, TensorFlow, Keras, Scikit-Learn, SHAP, Matplotlib, Jupyter Notebook.
+
+**Ver proyecto:** [Clasificación de enfermedades cardiovasculares](./Proyectos_Deep_Learning/Feed_Forward_Network/Clasificacion_Enfermedades_Cardiovasculares)
+
+### Proyecto 2: Clasificación de imágenes
+
+**Descripción:** Este proyecto implementa una red neuronal de alimentación hacia adelante para clasificar imágenes de dígitos del 0 al 9 utilizando el dataset MNIST, con técnicas de regularización y EarlyStopping para optimizar el entrenamiento.
+
+**Tecnologías:** Python, TensorFlow, Keras, Numpy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
+
+**Ver proyecto:** [Clasificación de imágenes](./Proyectos_Deep_Learning/Feed_Forward_Network/Clasificacion_Imagenes)
 
 ## Requisitos
 
