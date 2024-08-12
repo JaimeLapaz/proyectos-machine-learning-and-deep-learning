@@ -7,18 +7,17 @@
 - [Descripción](#descripción)
 - [Proyectos Machine Learning](#proyectos-machine-learning)
   - [Supervised Learning](#supervised-learning) 
-    - [Proyecto 1: Clasificación de enfermedades cardiovasculares](#proyecto-1-clasificación-de-enfermedades-cardiovasculares)
+    - [Proyecto 1: Clasificación de enfermedades cardiovasculares](#proyecto-1-clasificación-de-enfermedades-cardiovasculares-ml)
     - [Proyecto 2: Predicción del nivel de estrés](#proyecto-2-predicción-del-nivel-de-estrés)
   - [Unsupervised Learning](#unsupervised-learning)
     - [Proyecto 1: Clústeres de enfermedades cardiovasculares](#proyecto-1-clústeres-de-enfermedades-cardiovasculares)
     - [Proyecto 2: Influencias en el nivel de estrés](#proyecto-2-influencias-en-el-nivel-de-estrés)
 - [Proyectos Deep Learning](#proyectos-deep-learning)
-  - [Feed Forward Network](#)
+  - [Proyecto 1: Clasificación de enfermedades cardiovasculares](#proyecto-1-clasificación-de-enfermedades-cardiovasculares-dl)
+  - [Proyecto 2: Clasificación de imágenes](#proyecto-2-clasificación-de-imágenes)
+  - [Proyecto 3: Predicción de la calidad del vino](#proyecto-3-predicción-de-la-calidad-del-vino)
 - [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Uso](#uso)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Descripción
 
@@ -28,7 +27,7 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 ### Supervised Learning
 
-#### Proyecto 1: Clasificación de Enfermedades Cardiovasculares
+#### Proyecto 1: Clasificación de Enfermedades Cardiovasculares ML
 
 **Descripción:** Este proyecto emplea un conjunto de datos sobre enfermedades cardiovasculares, el cual incluye una variable que indica si una persona padece de dicha enfermedad o no. Utilizaremos diversos algoritmos de aprendizaje supervisado para predecir con precisión esta clasificación.
 
@@ -64,15 +63,13 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 ## Proyectos Deep Learning
 
-### Feed Forward Network
-
-#### Proyecto 1: Clasificación de enfermedades cardiovasculares
+### Proyecto 1: Clasificación de enfermedades cardiovasculares DL
 
 **Descripción:** Este proyecto tiene como objetivo diseñar una red neuronal feed-forward para predecir enfermedades cardiovasculares basado en características de salud.
 
 **Tecnologías:** Python, Pandas, NumPy, TensorFlow, Keras, Scikit-Learn, SHAP, Matplotlib, Jupyter Notebook.
 
-**Ver proyecto:** [Clasificación de enfermedades cardiovasculares](./Proyectos_Deep_Learning/Feed_Forward_Network/Clasificacion_Enfermedades_Cardiovasculares)
+**Ver proyecto:** [Clasificación de enfermedades cardiovasculares](./Proyectos_Deep_Learning/Clasificacion_Enfermedades_Cardiovasculares)
 
 ### Proyecto 2: Clasificación de imágenes
 
@@ -80,11 +77,19 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Tecnologías:** Python, TensorFlow, Keras, Numpy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
 
-**Ver proyecto:** [Clasificación de imágenes](./Proyectos_Deep_Learning/Feed_Forward_Network/Clasificacion_Imagenes)
+**Ver proyecto:** [Clasificación de imágenes](./Proyectos_Deep_Learning/Clasificacion_Imagenes)
+
+### Proyecto 3: Predicción de la calidad del vino
+
+**Descripción:** Este proyecto tiene como objetivo predecir la calidad de los vinos blancos utilizando un conjunto de datos que contiene características fisicoquímicas de los vinos. El problema abordado es un problema de regresión, donde se busca predecir un valor numérico (la calidad del vino) basado en múltiples características de entrada.
+
+**Tecnologías:** Python, PyTorch, Numpy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
+
+**Ver proyecto:** [Predicción de la calidad del vino](./Proyectos_Deep_Learning/Prediccion_Calidad_Vino)
 
 ## Requisitos
 
-- Python 3.8+
+- Python 3.9+
 
 ## Contribuciones
 
