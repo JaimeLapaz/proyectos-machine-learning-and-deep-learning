@@ -1,4 +1,4 @@
-# proyectos-machine-learning-and-deep-learning
+# Proyectos de Machine Learning y Deep Learning
 
 ¡Bienvenido a mi repositorio de proyectos de machine learning y deep learning! Este repositorio contiene una colección de proyectos que he desarrollado para aprender y demostrar mis habilidades en machine learning y análisis de datos.
 
