@@ -16,6 +16,7 @@
   - [Proyecto 1: Clasificación de enfermedades cardiovasculares](#proyecto-1-clasificación-de-enfermedades-cardiovasculares-dl)
   - [Proyecto 2: Clasificación de imágenes](#proyecto-2-clasificación-de-imágenes)
   - [Proyecto 3: Predicción de la calidad del vino](#proyecto-3-predicción-de-la-calidad-del-vino)
+  - [Proyecto 4:  Recomendador de películas usando word embeddings](#proyecto-4-recomendador-de-películas-usando-word-embeddings)
 - [Requisitos](#requisitos)
 - [Contribuciones](#contribuciones)
 
@@ -86,6 +87,14 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 **Tecnologías:** Python, PyTorch, Numpy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
 
 **Ver proyecto:** [Predicción de la calidad del vino](./Proyectos_Deep_Learning/Prediccion_Calidad_Vino)
+
+### Proyecto 4: Recomendador de películas usando word embeddings
+
+**Descripción:** Este proyecto desarrolla un sistema de recomendación de películas utilizando técnicas de procesamiento de lenguaje natural (NLP) y aprendizaje automático.
+
+**Tecnologías:** Python, Pandas, Numpy, spaCy, Nltk, Scikit-learn, Jupyter Notebook.
+
+**Ver proyecto:** [Recomendador de películas](./Proyectos_Deep_Learning/Recomendador_peliculas)
 
 ## Requisitos
 
