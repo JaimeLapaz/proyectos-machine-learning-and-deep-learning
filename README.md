@@ -17,6 +17,7 @@
   - [Proyecto 2: Clasificación de imágenes](#proyecto-2-clasificación-de-imágenes)
   - [Proyecto 3: Predicción de la calidad del vino](#proyecto-3-predicción-de-la-calidad-del-vino)
   - [Proyecto 4:  Recomendador de películas usando word embeddings](#proyecto-4-recomendador-de-películas-usando-word-embeddings)
+  - [Proyecto 5: Análisis de sentimientos en reseñas de películas](#proyecto-5-análisis-de-sentimientos-en-reseñas-de-películas)
 - [Requisitos](#requisitos)
 - [Contribuciones](#contribuciones)
 
@@ -34,7 +35,7 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Tecnologías:** Python, scikit-learn, pandas, matplotlib, seaborn
 
-**Ver proyecto:** [Clasificación de enfermedades cardiovasculares](./Proyectos_Machine_Learning/Supervised_Learning/Clasificacion_Enfermedades_Cardiovasculares)
+**Ver proyecto:** [Clasificación de enfermedades cardiovasculares](./Proyectos_Machine_Learning/Supervised_Learning/01_Clasificacion_Enfermedades_Cardiovasculares)
 
 #### Proyecto 2: Predicción del nivel de estrés
 
@@ -42,7 +43,7 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Tecnologías:** Python, scikit-learn, pandas, matplotlib, seaborn
 
-**Ver proyecto:** [Predicción nivel de estrés](./Proyectos_Machine_Learning/Supervised_Learning/Prediccion_Nivel_Estres)
+**Ver proyecto:** [Predicción nivel de estrés](./Proyectos_Machine_Learning/Supervised_Learning/02_Prediccion_Nivel_Estres)
 
 ### Unsupervised Learning
 
@@ -52,7 +53,7 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Tecnologías:** Python, Pandas, Seaborn, Matplotlib, Scikit-learn, Jupyter Notebook.
 
-**Ver proyecto:** [Clústeres de enfermedades cardiovasculares](./Proyectos_Machine_Learning/Unsupervised_Learning/Clusteres_enfermedades_cardiovasculares)
+**Ver proyecto:** [Clústeres de enfermedades cardiovasculares](./Proyectos_Machine_Learning/Unsupervised_Learning/01_Clusteres_enfermedades_cardiovasculares)
 
 ### Proyecto 2: Influencias en el nivel de estrés
 
@@ -60,7 +61,7 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Tecnologías:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
 
-**Ver proyecto:** [Influencias en el nivel de estres](./Proyectos_Machine_Learning/Unsupervised_Learning/Influencias_nivel_estres)
+**Ver proyecto:** [Influencias en el nivel de estres](./Proyectos_Machine_Learning/Unsupervised_Learning/02_Influencias_nivel_estres)
 
 ## Proyectos Deep Learning
 
@@ -70,7 +71,7 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Tecnologías:** Python, Pandas, NumPy, TensorFlow, Keras, Scikit-Learn, SHAP, Matplotlib, Jupyter Notebook.
 
-**Ver proyecto:** [Clasificación de enfermedades cardiovasculares](./Proyectos_Deep_Learning/Clasificacion_Enfermedades_Cardiovasculares)
+**Ver proyecto:** [Clasificación de enfermedades cardiovasculares](./Proyectos_Deep_Learning/01_Clasificacion_Enfermedades_Cardiovasculares)
 
 ### Proyecto 2: Clasificación de imágenes
 
@@ -78,7 +79,7 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Tecnologías:** Python, TensorFlow, Keras, Numpy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
 
-**Ver proyecto:** [Clasificación de imágenes](./Proyectos_Deep_Learning/Clasificacion_Imagenes)
+**Ver proyecto:** [Clasificación de imágenes](./Proyectos_Deep_Learning/02_Clasificacion_Imagenes)
 
 ### Proyecto 3: Predicción de la calidad del vino
 
@@ -86,7 +87,7 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Tecnologías:** Python, PyTorch, Numpy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
 
-**Ver proyecto:** [Predicción de la calidad del vino](./Proyectos_Deep_Learning/Prediccion_Calidad_Vino)
+**Ver proyecto:** [Predicción de la calidad del vino](./Proyectos_Deep_Learning/03_Prediccion_Calidad_Vino)
 
 ### Proyecto 4: Recomendador de películas usando word embeddings
 
@@ -94,7 +95,15 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 **Tecnologías:** Python, Pandas, Numpy, spaCy, Nltk, Scikit-learn, Jupyter Notebook.
 
-**Ver proyecto:** [Recomendador de películas](./Proyectos_Deep_Learning/Recomendador_peliculas)
+**Ver proyecto:** [Recomendador de películas](./Proyectos_Deep_Learning/04_Recomendador_peliculas)
+
+### Proyecto 5: Análisis de sentimientos en reseñas de películas
+
+**Descripción:** 
+
+**Tecnologías:** 
+
+**Ver proyecto:** [Recomendador de películas](./Proyectos_Deep_Learning/05_Analisis_Sentimientos_Reseñas_Peliculas)
 
 ## Requisitos
 
