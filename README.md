@@ -16,7 +16,7 @@
   - [Proyecto 1: Clasificación de enfermedades cardiovasculares](#proyecto-1-clasificación-de-enfermedades-cardiovasculares-dl)
   - [Proyecto 2: Clasificación de imágenes](#proyecto-2-clasificación-de-imágenes)
   - [Proyecto 3: Predicción de la calidad del vino](#proyecto-3-predicción-de-la-calidad-del-vino)
-  - [Proyecto 4:  Recomendador de películas usando word embeddings](#proyecto-4-recomendador-de-películas-usando-word-embeddings)
+  - [Proyecto 4: Recomendador de películas usando word embeddings](#proyecto-4-recomendador-de-películas-usando-word-embeddings)
   - [Proyecto 5: Análisis de sentimientos en reseñas de películas](#proyecto-5-análisis-de-sentimientos-en-reseñas-de-películas)
 - [Requisitos](#requisitos)
 - [Contribuciones](#contribuciones)
@@ -91,17 +91,17 @@ En este repositorio, encontrarás diversos proyectos de machine learning que aba
 
 ### Proyecto 4: Recomendador de películas usando word embeddings
 
-**Descripción:** Este proyecto desarrolla un sistema de recomendación de películas utilizando técnicas de procesamiento de lenguaje natural (NLP) y aprendizaje automático.
+**Descripción:** Este proyecto desarrolla un sistema de recomendación de películas que sugiere títulos similares en función de sus sinopsis. Se procesan las sinopsis mediante técnicas de procesamiento de lenguaje natural (NLP), utilizando spaCy para la tokenización y normalización.
 
-**Tecnologías:** Python, Pandas, Numpy, spaCy, Nltk, Scikit-learn, Jupyter Notebook.
+**Tecnologías:** Python, Pandas, Numpy, spaCy, Gensim (Word2Vec), Scikit-learn, Jupyter Notebook.
 
 **Ver proyecto:** [Recomendador de películas](./Proyectos_Deep_Learning/04_Recomendador_peliculas)
 
 ### Proyecto 5: Análisis de sentimientos en reseñas de películas
 
-**Descripción:** 
+**Descripción:** Este proyecto se enfoca en desarrollar un modelo de aprendizaje automático utilizando LSTM para clasificar automáticamente reseñas de películas de IMDb como positivas o negativas. El modelo utiliza embeddings de palabras para capturar las relaciones semánticas entre términos y emplea técnicas avanzadas de procesamiento de lenguaje natural (NLP) para mejorar la precisión de la clasificación.
 
-**Tecnologías:** 
+**Tecnologías:** Python, TensorFlow/Keras, NLTK, Gensim (para Word2Vec), Pandas, NumPy, Matplotlib, Seaborn, Jupiter Notebook.
 
 **Ver proyecto:** [Recomendador de películas](./Proyectos_Deep_Learning/05_Analisis_Sentimientos_Reseñas_Peliculas)
 
